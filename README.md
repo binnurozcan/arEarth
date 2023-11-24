@@ -13,7 +13,7 @@ Projenizi yerel makinenizde çalıştırmak ve geliştirmeye başlamak için aş
 
 ### Kurulum
 
-1. Bu depoyu klonlayın: `git clone https://github.com/kullanici/ar-earth-viewer.git`
+1. Bu depoyu klonlayın.
 2. Android Studio'da projeyi açın.
 3. Emülatörü veya fiziksel bir cihazı kullanarak uygulamayı başlatın.
 
